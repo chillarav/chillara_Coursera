@@ -23,6 +23,13 @@
 
 /* Add Your Declarations and Function Comments here */ 
 
+
+void print_statistics(int arr[]);
+void print_array(int arr[]);
+int find_median(int arr[]);
+
+
+
 /**
  * @brief <Add Brief Description of Function Here>
  *
